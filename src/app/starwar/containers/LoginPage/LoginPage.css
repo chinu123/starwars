@@ -1,0 +1,44 @@
+.inputBox {
+  width: 250px;
+  height: 25px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.submitButton {
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 30px;
+  width: 50px;
+  background-color: #4286f4;
+}
+
+.labelRow {
+  margin-top: 5px;
+}
+
+.labelText {
+  font-size: 14px;
+}
+
+.marginTop {
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.heading {
+  font-size: 16px;
+}
+
+.noPadding {
+  padding: 0px !important;
+  text-align: left;
+}
+
+.error {
+  color: #cc0000;
+}
